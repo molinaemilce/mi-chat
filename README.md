@@ -3,4 +3,4 @@ Es un chat online global, cualquier persona puede estar escribiendo y visualizan
 Tecnologías usadas : Nodejs, Websockets, html, css, bootstrap, javascript
 
 Te dejo el link para que podamos chatear: 
-https://elite-bittersweet-culotte.glitch.me/
+https://mi-chat-app.glitch.me/
